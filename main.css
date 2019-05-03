@@ -1,1 +1,26 @@
+<style>
+body{
+    margin:60 px auto;
+    width: 70%
+}
 
+h1{
+   font-size: 40px;
+   font-family:Georgia, "Times New Roman", Times, Serif;
+}
+
+img{
+   width:100%;
+   height:auto;
+}
+
+ol.a{
+    list-style-type:circle;
+}
+
+p.normal{
+  font-style:normal;
+}
+
+</style>
+      
