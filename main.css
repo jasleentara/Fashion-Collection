@@ -1,18 +1,19 @@
 <style type="text/css" media="screen">
-
-body{
-    background: #efefef;
-    font-family: arial;
+<head>
+body {
+  background-color: lightblue;
 }
 
-h1{
-   font-size: 40px;
-   font-family:Georgia, "Times New Roman", Times, Serif;
+h1 {
+  color: white;
+  text-align: center;
 }
 
-h2{
-    font-size: 16px;
+p {
+  font-family: verdana;
+  font-size: 20px;
 }
+
 
 img{
    width:20%;
@@ -28,4 +29,6 @@ p.normal{
 }
 
 </style>
+</head>
+<body>
       
