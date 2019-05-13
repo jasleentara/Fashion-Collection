@@ -19,6 +19,10 @@ p {
   font-size: 20px;
 }
 
+h6{
+  color:pink;
+  text-align:top-left;
+}
 
 img{
    width:20%;
