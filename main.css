@@ -9,6 +9,11 @@ h1 {
   text-align: center;
 }
 
+img{
+  width:60%;
+  height:auto;
+}
+    
 p {
   font-family: verdana;
   font-size: 20px;
