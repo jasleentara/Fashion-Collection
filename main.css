@@ -18,13 +18,12 @@ a:link, a:visited {
   background-color: #f44336;
   color: white;
   padding: 14px 25px;
-  text-align: center;
   text-decoration: none;
   display: inline-block;
 }
 
 a:hover, a:active {
-  background-color: red
+  background-color: pink
 }
 
 p {
@@ -35,15 +34,13 @@ p {
 h6{
   color:pink;
   text-align:top-left;
+  font-style:italic;
   font-size: 20px;
 }
 
 img{
    width:20%;
    height:auto;
-}
-
-
 }
 
 ol.a{
