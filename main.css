@@ -9,6 +9,7 @@ h1 {
   text-align: center;
 }
 
+
 img{
   width:60%;
   height:auto;
@@ -40,6 +41,15 @@ h6{
   font-size: 20px;
 }
 
+h7{
+  color:green;
+  text-align:top-left;
+  font-style:italic;
+  font-family:verdana;
+  font-size:15px;
+}
+  
+   
 img{
    width:20%;
    height:auto;
