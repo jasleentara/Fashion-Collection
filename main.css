@@ -3,6 +3,7 @@
 body {
   background-color: lightblue;
 }
+</body>
 
 h1 {
   color: purple;
@@ -58,13 +59,21 @@ h8{
 }
 
 h11{
-  color:tan;
+  color:Brown;
   text-align:top-left;
   font-style:italic;
-  font-style:italic;
-  font-style:verdana;
-  font-style:15px;
+  font-family:verdana;
+  font-size:15px;
 }
+
+h9{
+  color:orange;
+  text-align:top-left;
+  font-style:italic;
+  font-family:verdana;
+  font-size:15px;
+}
+
 img{
    width:20%;
    height:auto;
