@@ -1,6 +1,6 @@
 <style type="text/css" media="screen">
 
-body {
+body index {
   background-color: lightblue;
 }
 </body>
@@ -10,11 +10,6 @@ h1 {
   text-align: center;
 }
 
-
-img{
-  width:60%;
-  height:auto;
-}
 
 a:link, a:visited {
   background-color: #f44336;
@@ -29,7 +24,7 @@ a:hover, a:active {
   background-color: red
 }
 
-p {
+p summer{
   font-family: verdana;
   font-size: 20px;
 }
@@ -58,7 +53,7 @@ h8{
   font-size:15px;
 }
 
-h9{
+h9autumn{
   color:Brown;
   text-align:top-left;
   font-style:italic;
@@ -66,7 +61,7 @@ h9{
   font-size:15px;
 }
 
-h11{
+h11 winter{
   color:orange;
   text-align:top-left;
   font-style:italic;
