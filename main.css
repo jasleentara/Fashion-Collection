@@ -29,6 +29,11 @@ p summer{
   font-size: 20px;
 }
 
+ol.a{
+    list-style-type:circle;
+}
+
+
 h6{
   color:blue;
   text-align:top-left;
@@ -74,9 +79,6 @@ img{
    height:auto;
 }
 
-ol.a{
-    list-style-type:circle;
-}
 
 p.normal{
   font-style:normal;
