@@ -24,7 +24,12 @@ a:hover, a:active {
   background-color: red
 }
 
-p summer{
+body summer {
+  background-color: lightblue;
+}
+</body>
+
+p {
   font-family: verdana;
   font-size: 20px;
 }
@@ -33,6 +38,10 @@ ol.a{
     list-style-type:circle;
 }
 
+body summer{
+  background-color: lightblue;
+}
+</body>
 
 h6{
   color:blue;
@@ -58,7 +67,12 @@ h8{
   font-size:15px;
 }
 
-h9autumn{
+body autumn {
+  background-color: lightblue;
+}
+</body>
+
+h9 {
   color:Brown;
   text-align:top-left;
   font-style:italic;
@@ -66,7 +80,12 @@ h9autumn{
   font-size:15px;
 }
 
-h11 winter{
+body winter {
+  background-color: lightblue;
+}
+</body>
+
+h11 {
   color:orange;
   text-align:top-left;
   font-style:italic;
