@@ -11,8 +11,10 @@ h1 {
 }
 
 
-p {
-  colour:Purple
+p1 {
+  colour:Purple;
+  text-align:top-left;
+  font-style:italic;
   font-family: verdana;
   font-size: 20px;
 }
